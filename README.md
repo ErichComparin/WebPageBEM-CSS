@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-    WebPage com BEM (Block Element Modifier)
+    🧱 WebPage com BEM (Block Element Modifier) 🧱
 </h1>
 
 ## 💻 Sobre o projeto
